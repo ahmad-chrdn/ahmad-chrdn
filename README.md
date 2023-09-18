@@ -1,4 +1,4 @@
-### Hi there 👋
+### Halo semua 👋 Saya, Ahmad Choirudin.
 
 <!--
 **ahmad-chrdn/ahmad-chrdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Reach me on
+- <a href="https://www.linkedin.com/in/ahmad-choirudin/">LinkedIn</a>
+- <a href="https://www.youtube.com/@ahmadchoirudin29">YouTube</a>
+- <a href="https://www.instagram.com/ahmad.chrdn/">Instagram</a>
+- ahmad.80241@gmail.com
