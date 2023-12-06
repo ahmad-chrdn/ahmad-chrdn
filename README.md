@@ -28,4 +28,3 @@ Here are some ideas to get you started:
 - <a href="https://www.linkedin.com/in/ahmad-choirudin/">LinkedIn</a>
 - <a href="https://www.youtube.com/@ahmadchoirudin29">YouTube</a>
 - <a href="https://www.instagram.com/ahmad.chrdn/">Instagram</a>
-- ahmad.80241@gmail.com
